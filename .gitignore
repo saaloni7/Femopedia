@@ -1,0 +1,12 @@
+.DS_Store
+*.pyc
+__pycache__/
+.venv/
+.env
+backend/.env
+staticfiles/
+media/
+.pytest_cache/
+.ruff_cache/
+node_modules/
+.superpowers/
